@@ -27,5 +27,4 @@ me.GetInTouch('ayoubmaimmadi.vercel.app', 'A.Maimmadi@aui.ma')
 <p align="center">
   <img src="https://profile-counter.glitch.me/AyoubMaimmadi/count.svg" alt="Visitor Count" align="center" />
 </p>
-
 ```
