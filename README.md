@@ -2,7 +2,7 @@
 src="https://raw.githubusercontent.com/AyoubMaimmadi/AyoubMaimmadi/master/images/Hi.gif" height="32" /></h1>
     
 ```python
-class Developer:
+class SoftwareEngineer:
     def __init__(self):
         self.name = "Ayoub Maimmadi"
         self.tech_stack = {
@@ -14,7 +14,7 @@ class Developer:
     def GetInTouch(self, *args):
         print(f'Reach me on my portfolio//in/{args[0]}/ or with {args[1]}.')
 
-me = Developer()
+me = SoftwareEngineer()
 me.GetInTouch('ayoubmaimmadi.vercel.app', 'A.Maimmadi@aui.ma')
 
 ```
