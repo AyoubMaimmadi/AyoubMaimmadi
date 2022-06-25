@@ -2,17 +2,14 @@
 src="https://github.com/AyoubMaimmadi/AyoubMaimmadi/raw/main/images/Hi.gif" height="32" /></h1>
     
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 class Developer:
-def **init**(self):
-self.name = "Ayoub Maimmadi"
-self.tech_stack = {
-'main': ['Python', 'JavaScript', 'SQL', 'Git'],
-'web': ['React', 'Next', 'Tailwind', 'Firebase'],
-'xtra': ['C#', 'Unity', 'SASS', 'Bootstrap', 'Redux']
-}
+    def __init__(self):
+        self.name = "Ayoub Maimmadi"
+        self.tech_stack = {
+            'main': ['Python', 'JavaScript', 'SQL', 'Git'],
+            'web': ['React', 'Next', 'Tailwind', 'Firebase'],
+            'xtra': ['C#', 'Unity', 'SASS', 'Bootstrap', 'Redux']
+            }
 
     def GetInTouch(self, *args):
         print(f'Reach me on my portfolio//in/{args[0]}/ or with {args[1]}.')
@@ -27,4 +24,4 @@ me.GetInTouch('ayoubmaimmadi.vercel.app', 'A.Maimmadi@aui.ma')
 <p align="center">
   <img src="https://profile-counter.glitch.me/AyoubMaimmadi/count.svg" alt="Visitor Count" align="center" />
 </p>
-```
+
