@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://ayoubmaimmadi.vercel.app/" target = "_blank">Ayoub Maimmadi</a> <img
+<h1 align="center">Hi there, I'm <a target="_blank" href="https://ayoubmaimmadi.vercel.app/" target = "_blank">Ayoub Maimmadi</a> <img
 src="https://raw.githubusercontent.com/AyoubMaimmadi/AyoubMaimmadi/master/images/Hi.gif" height="32" /></h1>
     
 ```python
