@@ -8,7 +8,7 @@ class SoftwareEngineer:
         self.tech_stack = {
             'main': ['Python', 'JavaScript', 'SQL', 'Git'],
             'web': ['React', 'Next', 'Tailwind', 'Firebase'],
-            'xtra': ['C#', 'Unity', 'NoSQL', 'Anguler', 'Node']
+            'xtra': ['C#', 'Unity', 'NoSQL', 'Angular', 'Node']
             }
 
     def GetInTouch(self, *args):
