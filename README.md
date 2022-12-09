@@ -7,7 +7,7 @@ class SoftwareEngineer:
         self.name = "Ayoub Maimmadi"
         self.tech_stack = {
             'main': ['Python', 'JavaScript', 'SQL', 'Git'],
-            'web': ['React', 'Next', 'Tailwind', 'Firebase'],
+            'web': ['React', 'Next', 'MongoDB', 'Firebase'],
             'xtra': ['C#', 'Unity', 'NoSQL', 'Angular', 'Node']
             }
 
