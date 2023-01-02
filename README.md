@@ -18,8 +18,8 @@ me = SoftwareEngineer()
 me.GetInTouch('ayoubmaimmadi.vercel.app', 'A.Maimmadi@aui.ma')
 
 ```
-<img  src="https://github-readme-stats.vercel.app/api?username=AyoubMaimmadi&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AyoubMaimmadi&theme=dark" width="45%" >
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=AyoubMaimmadi&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AyoubMaimmadi&theme=dark" width="45%" > -->
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/AyoubMaimmadi/count.svg" alt="Visitor Count" align="center" />
