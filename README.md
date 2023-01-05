@@ -12,10 +12,10 @@ class SoftwareEngineer:
             }
 
     def GetInTouch(self, *args):
-        print(f'Reach me on my portfolio//in/{args[0]}/ or with {args[1]}.')
+        print(f'Reach me on my LinkedIn//in/{args[0]}/ or with {args[1]}.')
 
 me = SoftwareEngineer()
-me.GetInTouch('ayoubmaimmadi.vercel.app', 'A.Maimmadi@aui.ma')
+me.GetInTouch('[ayoubmaimmadi.vercel.app](https://www.linkedin.com/in/ayoub-maimmadi-533587198/)', 'A.Maimmadi@aui.ma')
 
 ```
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=AyoubMaimmadi&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
