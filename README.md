@@ -15,7 +15,7 @@ class SoftwareEngineer:
         print(f'Reach me on my LinkedIn//in/{args[0]}/ or with {args[1]}.')
 
 me = SoftwareEngineer()
-me.GetInTouch('https://www.linkedin.com/in/ayoub-maimmadi-533587198/', 'A.Maimmadi@aui.ma')
+me.GetInTouch('Ayoub Maimmadi', 'A.Maimmadi@aui.ma')
 
 ```
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=AyoubMaimmadi&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
