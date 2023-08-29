@@ -6,9 +6,9 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Ayoub Maimmadi"
         self.tech_stack = {
-            'main': ['TypeScript', 'Python', 'C', 'PostgreSQL', 'Git'],
-            'web': ['React', 'Next', 'Nest', 'Angular', 'Prisma', 'MongoDB'],
-            'xtra': ['Java', 'Spring Boot', 'laravel', 'CMS', 'Firebase']
+            'main': ['TypeScript', 'Python', 'PostgreSQL', 'Git'],
+            'web': ['React', 'Next', 'Nest', 'Angular', 'MongoDB'],
+            'xtra': ['Java', 'Spring Boot', 'laravel', 'Firebase']
             }
 
     def GetInTouch(self, *args):
